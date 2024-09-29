@@ -6,6 +6,10 @@
     --color-de-link: #000000;
 }
 
+ html {
+      scroll-behavior: smooth;
+    }
+
 body {
     background-color: var(--color-de-fondo);
     font-family: 'Raleway', sans-serif;
